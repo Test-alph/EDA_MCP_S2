@@ -1922,4 +1922,4 @@ async def debug_perf_summary(
 
 ######################################################
 # Run the server
-app = mcp.fastapi_app
+app = mcp
