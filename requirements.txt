@@ -1,0 +1,13 @@
+chainlit
+mcp
+python-dotenv
+uvicorn[standard]
+pandas
+numpy
+matplotlib
+missingno
+seaborn
+evidently
+scikit-learn
+pydantic
+PyYAML
